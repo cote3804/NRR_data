@@ -1,5 +1,1 @@
 final_all_data.json filter=lfs diff=lfs merge=lfs -text
-<<<<<<< HEAD
-final_reviewed_all_data.json filter=lfs diff=lfs merge=lfs -text
-=======
->>>>>>> 936f62f29898c376318a459314dca2bc563afac0
